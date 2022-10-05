@@ -1,0 +1,149 @@
+body{
+background-color: #0e1111;
+color: silver;
+font-size: 20px;
+}
+h1{
+  color: black;
+  font-style: oblique;
+  font
+  font-size: 100px;
+  text-decoration: underline;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  line-height: 4;
+  text-align: center;
+}
+h3{
+  font-size: 40px;
+  letter-spacing: 0.2em;
+  line-height: .1;
+  text-align: center;
+  color: white;
+}
+a{
+  line-height: 0.8;
+  color: white;
+
+}
+
+ul{
+  font-style: italic;
+}
+#p4{
+  color: white;
+}
+#p1{
+  font-size: 35px;
+  font-style: italic;
+  line-height:  1;
+  color: black;
+  letter-spacing: 0.1em;
+}
+#p1:hover{
+  color: black;
+}
+#p2{
+  float: left;
+  background-color: white;
+  color: black;
+  width: 48%;
+  text-align: center;
+  font-style: italic;
+
+}
+#p3{
+  float: right;
+  background-color: white;
+  color: black;
+  width: 48%;
+  text-align: center;
+  font-style: italic;
+
+}
+#div1{
+  background-color: white;
+}
+span{
+  font-size: 50pt;
+  font-family: serif;
+}
+#div2{
+  background-color: white;
+  text-align: center;
+  float: left;
+  width: 1600px;
+  border-color: gray;
+  padding-bottom: 35px;
+}
+.img1{
+padding-left: 25px;
+}
+#div2:hover{
+  background-color: white;
+}
+#div3{
+
+  width: 300px;
+  bottom: 0;
+  float: left;
+
+}
+#div4{
+float: right;
+width: 1565px;
+}
+#div5{
+  float: right;
+  width: 1870px;
+}
+#div6{
+  float: right;
+  margin: 0 0 1em 1em;
+
+}
+#sw{
+  float: left;
+  padding-top: 15px;
+  padding-left: 140px;
+  padding-bottom: 15px;
+}
+ul{
+  list-style-type: upper-roman;
+  background: #282828;
+  color: white;
+  margin: px;
+}
+#list{
+  text-align: center;
+  font-size: 1.2em;
+}
+h4{
+  line-height: .3;
+  font-size: 20px;
+
+}
+#gym{
+float: right;
+padding-top: 15px;
+padding-right: 180px;
+}
+form{
+  color: white;
+  padding: 10px;
+  background-color: #282828;
+  font-style: italic;
+}
+input[type=button]{
+  background-color:  #282828;
+  color: white;
+  border-color: white;
+
+}
+
+input[type=button]:hover{
+  border: solid;
+  font-style: italic;
+  font-size: 1em;
+  background-color: red;
+}
